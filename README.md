@@ -1,6 +1,7 @@
 # React 專案
 
-練習使用 React 進行 CRUD 功能實作。
+練習使用 React 進行 CRUD 功能實作，以及註冊、登入及登出功能。  
+Live Site URL: [Click me !](https://beckyyyyy.github.io/todolist-react)
 
 ## 開始使用
 
