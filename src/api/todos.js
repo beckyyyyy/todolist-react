@@ -60,6 +60,7 @@ export const patchTodo = async (payload) => {
 export const deleteTodo = async (id) => {
   try {
     const res = await axiosInterceptor.delete(`${baseUrl}/todos/${id}`);
+    return res.data;
   } catch (error) {
     console.error('[Delete Todo failed]: ', error);
   }
