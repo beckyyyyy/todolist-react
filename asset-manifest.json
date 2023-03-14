@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/todolist-react/static/css/main.81e9703d.chunk.css",
-    "main.js": "/todolist-react/static/js/main.c87ae65c.chunk.js",
-    "main.js.map": "/todolist-react/static/js/main.c87ae65c.chunk.js.map",
+    "main.js": "/todolist-react/static/js/main.28624cbc.chunk.js",
+    "main.js.map": "/todolist-react/static/js/main.28624cbc.chunk.js.map",
     "runtime-main.js": "/todolist-react/static/js/runtime-main.8e22c412.js",
     "runtime-main.js.map": "/todolist-react/static/js/runtime-main.8e22c412.js.map",
-    "static/js/2.75da6b30.chunk.js": "/todolist-react/static/js/2.75da6b30.chunk.js",
-    "static/js/2.75da6b30.chunk.js.map": "/todolist-react/static/js/2.75da6b30.chunk.js.map",
+    "static/js/2.1df4ced7.chunk.js": "/todolist-react/static/js/2.1df4ced7.chunk.js",
+    "static/js/2.1df4ced7.chunk.js.map": "/todolist-react/static/js/2.1df4ced7.chunk.js.map",
     "static/js/3.a29260c9.chunk.js": "/todolist-react/static/js/3.a29260c9.chunk.js",
     "static/js/3.a29260c9.chunk.js.map": "/todolist-react/static/js/3.a29260c9.chunk.js.map",
     "index.html": "/todolist-react/index.html",
     "static/css/main.81e9703d.chunk.css.map": "/todolist-react/static/css/main.81e9703d.chunk.css.map",
-    "static/js/2.75da6b30.chunk.js.LICENSE.txt": "/todolist-react/static/js/2.75da6b30.chunk.js.LICENSE.txt",
+    "static/js/2.1df4ced7.chunk.js.LICENSE.txt": "/todolist-react/static/js/2.1df4ced7.chunk.js.LICENSE.txt",
     "static/media/ac-logo.f4e0f3cb.svg": "/todolist-react/static/media/ac-logo.f4e0f3cb.svg",
     "static/media/check-active.95ca055c.svg": "/todolist-react/static/media/check-active.95ca055c.svg",
     "static/media/check-circle.30720b46.svg": "/todolist-react/static/media/check-circle.30720b46.svg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8e22c412.js",
-    "static/js/2.75da6b30.chunk.js",
+    "static/js/2.1df4ced7.chunk.js",
     "static/css/main.81e9703d.chunk.css",
-    "static/js/main.c87ae65c.chunk.js"
+    "static/js/main.28624cbc.chunk.js"
   ]
 }
